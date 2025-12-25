@@ -1,8 +1,8 @@
-# 🪄 Vee AI — Intelligent Content Creation Assistant
+# 🪄 Brian — Intelligent Content Creation Assistant
 
-Vee AI is an intelligent content-generation tool that transforms simple prompts into high-quality scripts, captions, stories, and more — instantly and effortlessly.  
+Brian is an intelligent content-generation tool that transforms simple prompts into high-quality scripts, captions, stories, and more — instantly and effortlessly.  
 
-Whether you're a content creator, marketer, or storyteller, Vee AI helps you generate engaging content for social media, videos, marketing campaigns, and other creative needs.
+Whether you're a content creator, marketer, or storyteller, Brian helps you generate engaging content for social media, videos, marketing campaigns, and other creative needs.
 
 ---
 
@@ -18,13 +18,13 @@ Whether you're a content creator, marketer, or storyteller, Vee AI helps you gen
 
 ## 🌐 Live Demo
 
-👉 **https://aswinrout.is-a.dev/veeai/**
+👉 **https://aswinrout.is-a.dev/brian/**
 
 ---
 
 ## 📍 About the Project
 
-**Vee AI** is built to help creators generate professional-grade written content quickly.  
+**Brian** is built to help creators generate professional-grade written content quickly.  
 Designed by **AswinCreates**, with support from **Yokai Devs**.
 
 ---
@@ -34,7 +34,7 @@ Designed by **AswinCreates**, with support from **Yokai Devs**.
 > Update this section based on your actual project setup.
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **AI Backend (optional):** OpenAI API / custom API  
+- **AI Backend:** OpenAI API / custom API  
 - **Hosting:** is-a.dev / Vercel / Netlify  
 
 ---
@@ -46,4 +46,4 @@ If you're running it locally, follow these steps:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/veeai.git
-cd veeai
+cd brian
